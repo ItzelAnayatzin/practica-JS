@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Kenia&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@100..900&family=Kenia&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="./styles/main.css">
+
+    <script src="./js/mostrarProductos.js" type="module" defer></script>
+    <script src="./js/crearProducto.js" type="module" defer></script>
+    <script src="./js/filtrarProducto.js" type="module" defer></script>
+
+</head>
+
+<body>
+
+    <header class="header__container">
+        <div class="logo">
+            <img src="img/logo.png">
+            <h3 class="menu__title">AluraGeek</h3>
+        </div>
+        <div class="search">
+            <input type="search" placeholder="Buscar" id="buscar" class="buscar__input" data-busqueda>
+            <button class="buscar__boton" data-boton-busqueda></button>
+        </div>
+        
+    </header>
+    
+    <main class="main__container">
+
+        <section class="principal">
+            <form class="formulario" data-formulario>
+                <h1 class="title">AGREGAR PRODUCTO:</h1>
+                <input name="nombre" id="nombre" class="campo__completo" placeholder="nombre..." type="text" minlength="3"
+                    required data-nombre/>
+    
+                <input name="precio" id="precio" class="campo__completo" placeholder="precio..." type="text" required data-precio />
+    
+                <input name="imagen" id="imagen" class="campo__completo" placeholder="imagen..." type="text" required data-imagen/>
+    
+                <div class="botones">
+                    <input type="submit" value="Enviar" class="btn btn-enviar">
+                    <input type="button" value="Limpiar" class="btn btn-limpiar" data-limpiar-form>
+                </div>
+            </form>
+            <section class="productos">
+                <h1 class="title">MIS PRODUCTOS:</h1>
+    
+                <ul class="lista__productos" data-lista></ul>
+            </section>
+        </section>
+    </main>
+
+    <footer>
+        <div class="logo">
+            <img src="img/logo.png">
+            <h3 class="menu__title">AluraGeek</h3>
+        </div>
+        <h3>DESARROLLADO POR ITZEL BARRETO</h3>
+        <P>ALURA LATAM - 2024</P>
+    </footer>
+
+</body>
+
+</html>

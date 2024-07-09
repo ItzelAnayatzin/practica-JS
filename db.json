@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Stormtrooper",
+      "precio": "10",
+      "imagen": "https://s3-alpha-sig.figma.com/img/7288/617c/839c11fc3105027e126215f3647fa5b0?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KuDfJ7CLDMra5vs0AlM~TFhxKgZuOq10cbgmzIGLNPsaeQQhTKtv8RSZN8RsFNbXJlSD2M~S-eX4n0-87BCI99obHiVD0apwa8s5OPC86adrlKQaD4acADpVQ9nFAP5X-7XW-YMkY887PpoIkRaICG5OiZ2uwLNuErrWlKvIS~Y-IYkO3KaG~coTtphWjikMvJIl2w4ZQA6oDk8TJVUuI-4ReAB8x0CSmYL4YPIjJhzc9FTFIaEObnWwFTh2~-seO5d-4VwZBo0MuOtDs2XKGSq9Ykq0PnFGk~nx866gswPSw-DaD-jmdlWSoVO33LiWBtX1FeHUhOikSR-akX6zIQ__"
+    },
+    {
+      "id": "2",
+      "nombre": "Game Boy Classic",
+      "precio": "50",
+      "imagen": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__"
+    },
+    {
+      "id": "3",
+      "nombre": "Stormtrooper",
+      "precio": "10",
+      "imagen": "https://s3-alpha-sig.figma.com/img/7288/617c/839c11fc3105027e126215f3647fa5b0?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KuDfJ7CLDMra5vs0AlM~TFhxKgZuOq10cbgmzIGLNPsaeQQhTKtv8RSZN8RsFNbXJlSD2M~S-eX4n0-87BCI99obHiVD0apwa8s5OPC86adrlKQaD4acADpVQ9nFAP5X-7XW-YMkY887PpoIkRaICG5OiZ2uwLNuErrWlKvIS~Y-IYkO3KaG~coTtphWjikMvJIl2w4ZQA6oDk8TJVUuI-4ReAB8x0CSmYL4YPIjJhzc9FTFIaEObnWwFTh2~-seO5d-4VwZBo0MuOtDs2XKGSq9Ykq0PnFGk~nx866gswPSw-DaD-jmdlWSoVO33LiWBtX1FeHUhOikSR-akX6zIQ__"
+    },
+    {
+      "id": "4",
+      "nombre": "Game Boy Classic",
+      "precio": "50",
+      "imagen": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__"
+    },
+    {
+      "id": "5",
+      "nombre": "Stormtrooper",
+      "precio": "10",
+      "imagen": "https://s3-alpha-sig.figma.com/img/7288/617c/839c11fc3105027e126215f3647fa5b0?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KuDfJ7CLDMra5vs0AlM~TFhxKgZuOq10cbgmzIGLNPsaeQQhTKtv8RSZN8RsFNbXJlSD2M~S-eX4n0-87BCI99obHiVD0apwa8s5OPC86adrlKQaD4acADpVQ9nFAP5X-7XW-YMkY887PpoIkRaICG5OiZ2uwLNuErrWlKvIS~Y-IYkO3KaG~coTtphWjikMvJIl2w4ZQA6oDk8TJVUuI-4ReAB8x0CSmYL4YPIjJhzc9FTFIaEObnWwFTh2~-seO5d-4VwZBo0MuOtDs2XKGSq9Ykq0PnFGk~nx866gswPSw-DaD-jmdlWSoVO33LiWBtX1FeHUhOikSR-akX6zIQ__"
+    },
+    {
+      "id": "6",
+      "nombre": "Game Boy Classic",
+      "precio": "50",
+      "imagen": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__"
+    },
+    {
+      "id": "7",
+      "nombre": "Stormtrooper",
+      "precio": "10",
+      "imagen": "https://s3-alpha-sig.figma.com/img/7288/617c/839c11fc3105027e126215f3647fa5b0?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KuDfJ7CLDMra5vs0AlM~TFhxKgZuOq10cbgmzIGLNPsaeQQhTKtv8RSZN8RsFNbXJlSD2M~S-eX4n0-87BCI99obHiVD0apwa8s5OPC86adrlKQaD4acADpVQ9nFAP5X-7XW-YMkY887PpoIkRaICG5OiZ2uwLNuErrWlKvIS~Y-IYkO3KaG~coTtphWjikMvJIl2w4ZQA6oDk8TJVUuI-4ReAB8x0CSmYL4YPIjJhzc9FTFIaEObnWwFTh2~-seO5d-4VwZBo0MuOtDs2XKGSq9Ykq0PnFGk~nx866gswPSw-DaD-jmdlWSoVO33LiWBtX1FeHUhOikSR-akX6zIQ__"
+    },
+    {
+      "id": "8",
+      "nombre": "Game Boy Classic",
+      "precio": "50",
+      "imagen": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__"
+    },
+    {
+      "id": "9",
+      "nombre": "Game Boy Classic",
+      "precio": "50",
+      "imagen": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__"
+    }
+  ]
+}
